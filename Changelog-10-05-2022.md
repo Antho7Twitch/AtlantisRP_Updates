@@ -19,12 +19,19 @@
 
 *Misc*
 ➡️ Actualizado el script de la voz (Mumble)
+
 ➡️ Actualizado el script de la Radio IC (RP-Radio)
+
 ➡️ Optimizado el script de drogas
+
 ➡️ Optimizado el script de la Documentación
+
 ➡️ Optimizado el script de la cámara del Helicóptero Policial
+
 ➡️ Optimizado el script de la interfaz de usuario.
-➡️ Actualizados los siguientes scripts de ESX: Service, Instance, Skin, Skinchanger, Identity, Autoescuela, Tiendas de ropa, Menús de Diálogo y Listas, 
+
+➡️ Actualizados los siguientes scripts de ESX: Service, Instance, Skin, Skinchanger, Identity, Autoescuela, Tiendas de ropa, Menús de Diálogo y Listas
+
 ➡️ Implementados los siguientes scripts de ESX: Progressbar, Notify, TextUI.
 
 
