@@ -182,13 +182,3 @@
 ➡️ Implementados en el concesionario VIP 3 los vehículos del DLC The Contract y los vehículos reales siguientes: Audi RS3, BMW M4 F82, Fiat Punto, Nissan 180SX, Nissan S2000, Nissan Skyline GT.R, Range Rover Evoque, Renault 5 Copa Turbo, Shelby GT500, Volkswagen Golf MK6 y Yamaha R6.
 
 ➡️ Implementado nuevo Concesionario Premium en el que se podrán conseguir una selección de vehículos de alta gama SOLAMENTE a cambio de ACoins, la moneda del servidor que podéis conseguir en Tebex. En este concesionario solamente se incluirán vehículos reales de marcas de renombre como Ferrari, Lamborghini, Bentley, Rolls Royce...etc. Para  más información preguntad por ticket.
-
-
-
-
-...Y seguramente me olvide de algo, recordad que cualquier cosa que veáis que funciona mal o tiene algún problema la podéis reportar con un ticket de #〚🎫〛reportar-bug, **RECORDAD** que para enviar un buen ticket de bug tenéis que enviar también una captura de pantalla del propio bug y de la consola del cliente (F8), sin eso **no podemos hacer nada** y se borrará el ticket inmediatamente.
-
-
-Un abrazo y espero que os guste la tremenda actualización y os animéis a rolear y a traer a más amigos y conocidos a rolear a Atlantis, esta actualización ha llevado mucho esfuerzo, tiempo y dinero y sin vuestro apoyo no sería posible haberlo llevado a cabo, ahora vamos a intentar que más gente conozca la gran comunidad que estamos formando y se quede con nosotros. 
-
-Con cariño, el equipo de programación de AtlantisRP. Osea yo KEKW
