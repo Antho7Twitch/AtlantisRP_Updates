@@ -42,6 +42,14 @@
 
 ➡️ Añadidas varias viviendas en la zona de Forum Drive y de Carson Avenue. (Se irán añadiendo más viviendas con el tiempo)
 
+➡️ Añadidas las opciones de alquiler a gran parte de las viviendas del servidor.
+
+➡️ Implementado el cobro de alquiler diario, se cobrará todos los días de una "wallet" que tendréis en la propia vivienda donde tendréis que depositar el dinero para que se cobre el alquiler.
+
+➡️ Establecido en un 75% la cantidad de dinero que te darán al devolver el mobiliario a la tienda de IKEA.
+
+➡️ Establecido en 4 la cantidad de propiedades que puede adquirir un solo individuo.
+
 
 🖥️**Versión de FiveM**🖥️
 
