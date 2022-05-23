@@ -16,3 +16,8 @@
 **Daño Armas**
 
 ➡️ Implementado el daño de armas en la framework y retirado el script que lo gestionaba.
+
+
+**Loaf Housing**
+
+➡️ Fixed an issue where you could not breach the door.
