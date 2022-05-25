@@ -14,3 +14,4 @@
 
 ➡️ Añadido un sistema de alquiler de vehículos de todo tipo en dos zonas de la ciudad (con el sistema de interacción nuevo)
 
+➡️ Añadido sistema de máquinas de vending con el sistema de interacción nuevo
