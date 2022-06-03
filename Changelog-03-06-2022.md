@@ -9,6 +9,8 @@
 
 ➡️ Eliminado el antiguo script de robos de casas.
 
+➡️ Cambiado el item de robo de casas a la ganzúa y el robo de vehículos a la ganzúa avanzada.
+
 
 🍔**Inventarios de Comercios**💰
 
