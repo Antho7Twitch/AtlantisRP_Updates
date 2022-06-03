@@ -5,11 +5,11 @@
 🤑**Robo de Casas**🏦
 
 
--➡️ Añadido un nuevo sistema de robo de casas con interacciones.
-
--➡️ [Conseguid más info IC]
-
--➡️ Eliminado el antiguo script de robos de casas.
+>➡️ Añadido un nuevo sistema de robo de casas con interacciones.
+>
+>➡️ [Conseguid más info IC]
+>
+>➡️ Eliminado el antiguo script de robos de casas.
 >
 >➡️ Cambiado el item de robo de casas a la ganzúa y el robo de vehículos a la ganzúa avanzada.
 
