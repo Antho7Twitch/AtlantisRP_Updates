@@ -8,3 +8,8 @@
 ➡️ [Conseguid más info IC]
 
 ➡️ Eliminado el antiguo script de robos de casas.
+
+
+🍔**Inventarios de Comercios**💰
+
+➡️ Cambiado el nivel de degradación de las neveras de todos los negocios, ahora lo que esté dentro de ellas no caducará tan rápido.
