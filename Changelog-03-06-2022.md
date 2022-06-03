@@ -34,3 +34,5 @@
 >➡️ Eliminada la animación de la radio al darle al ALT, ahora se utilizará SOLAMENTE la radio IC para comunicarse.
 >
 >➡️ Cambiada la tecla de interacción para HABLAR, ahora la tecla será la **"Y"**.
+>
+>➡️ Cambiada la tecla de "Cambio de Distancia de Voz" al F10.
