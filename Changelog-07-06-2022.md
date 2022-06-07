@@ -13,7 +13,7 @@
 >
 >➡️ Aumentado ligeramente el tamaño del Blip de la Oficina de Empleo.
 >
->➡️ Cambiado el sistema de interacción al del Alt.
+>➡️ Cambiado el sistema de interacción al del Alt la interacción de la Oficina de Empleo.
 >
 >
 >🍔**Burgershot**🍔
