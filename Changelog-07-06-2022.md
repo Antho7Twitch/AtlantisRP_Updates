@@ -17,6 +17,10 @@
 >
 >➡️ Desactivado el sistema permanente de dirección y hora en la interfaz, solo se mostrará si estamos en un vehículo.
 >
+>➡️ Retirado el script de la Autoescuela. 
+>
+>➡️ Ahora cuando se crea el personaje nos da automáticamente las siguientes licencias: Teórica, Conducción de coches y Motos
+>
 >
 >🍔**Burgershot**🍔
 >
