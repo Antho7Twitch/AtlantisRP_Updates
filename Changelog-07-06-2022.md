@@ -15,6 +15,8 @@
 >
 >➡️ Cambiado el sistema de interacción al del Alt la interacción de la Oficina de Empleo.
 >
+>➡️ Desactivado el sistema permanente de dirección y hora en la interfaz, solo se mostrará si estamos en un vehículo.
+>
 >
 >🍔**Burgershot**🍔
 >
