@@ -35,3 +35,9 @@
 >
 >
 >
+>🚛**Camioneros**🚛
+>
+>➡️ Establecidos los sueldos de todos los trabajos de camioneros.
+>
+>➡️ Establecidas las penalizaciones por daños en el trabajo de camioneros, estas medirán los daños recibidos por el camión y el tráiler y descontarán dichos daños del pago del sueldo entre 50$ y 200$ así que ¡Respetad las normas de circulación y conducid con cuidado!
+>
