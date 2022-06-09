@@ -47,4 +47,22 @@
 >➡️ Cambiado el punto de acciones de mecánico a la entrada principal detrás del mostrador.
 >
 >
+>🚓**Policía**👮‍♂️
+>
+>➡️ Cambiadas las interacciones a las nuevas del Alt para el menú de jefe, el menú de compra de vehículos y las taquillas.
+>
+>➡️ Retirado el bloqueo por PIN de la puerta que da a la compra de vehículos.
+>
+>➡️ Optimizado el script y retiradas las partes no utilizadas.
+>
+>
+>
+>👨‍⚕️**EMS**🏥
+>
+>➡️ Cambiadas las interacciones a las nuevas del Alt para el menú de jefe, el menú de compra de vehículos y las taquillas.
+>
+>➡️ Optimizado el script y retiradas las partes no utilizadas.
+>
+>➡️ Añadido un punto de hangar (Aún no utilizable) para cuando se implemente el helicóptero de EMS.
+>
 >
