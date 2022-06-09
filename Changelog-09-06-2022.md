@@ -11,6 +11,7 @@
 >
 >🥬**Droguitas**🥬
 >
+>
 >➡️ Varias optimizaciones en los scripts de venta de drogas, de fumar y de crafteo de porritos.
 >
 >
@@ -35,4 +36,12 @@
 >➡️ Varias optimizaciones.
 >
 >
-
+>🔧**Mecanicos**🛠️
+>
+>
+>➡️ Varias optimizaciones y menú de marcadores cambiado.
+>
+>➡️ Cambiado el punto de acciones de mecánico a la entrada principal detrás del mostrador.
+>
+>
+>
