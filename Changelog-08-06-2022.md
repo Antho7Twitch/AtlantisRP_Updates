@@ -9,7 +9,7 @@
 >
 >
 >
->🍔**Tiendas de Ropa**🍔
+>👖**Tiendas de Ropa**👖
 >
 >➡️ Cambiados los sistemas de interacción de las tiendas de ropa, ahora habrá 3 puntos en cada tienda para poder cambiarse en vez de uno.
 >
