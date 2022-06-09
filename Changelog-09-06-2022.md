@@ -8,6 +8,9 @@
 >➡️ Retiradas las barreras del Garaje Central.
 >
 >
+>**Fixes**
+>
+>➡️ Arreglado bug de un radar que aparecía en el aire en vez de estar correctamente posicionado en el suelo.
 >
 >🥬**Droguitas**🥬
 >
