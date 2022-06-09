@@ -26,13 +26,5 @@
 >
 >
 >
->💇**Peluquerías**💈
->
->
->➡️ Cambiado el menú de interacción de las peluquerías, ahora se utilizará el menú del Alt.
->
->➡️ Añadidos NPC's de entorno a las peluquerías con los que tendremos que interactuar para cambiarnos el aspecto.
->
->
 >
 
