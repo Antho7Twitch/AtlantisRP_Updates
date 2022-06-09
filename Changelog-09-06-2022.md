@@ -27,4 +27,12 @@
 >
 >
 >
+>👷**Entrada/Salida de Servicio**👷
+>
+>
+>➡️ Cambiado el sistema de interacción al del Alt.
+>
+>➡️ Varias optimizaciones.
+>
+>
 
