@@ -1,0 +1,1 @@
+- Actualizado cd_easy time a la v1.3.6.
