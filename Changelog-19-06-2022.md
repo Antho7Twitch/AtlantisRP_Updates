@@ -7,3 +7,4 @@
 - Reparado bug que hacía que en el trabajo del Burgershot los jefes no pudieran acceder a las cuentas de la empresa.
 - Retiradas las imágenes del script de sistema de alquiler de vehículos para que los PCs menos potentes no se resientan tanto cuando cargan las imágenes.
 - Reparado bug que hacía que las tiendas de tatuajes no se mostraran correctamente.
+- Actualizado el oxmysql.
