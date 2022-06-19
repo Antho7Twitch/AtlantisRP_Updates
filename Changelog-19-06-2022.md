@@ -1,0 +1,9 @@
+- Reparado bug con los autobuses, el marcador donde se solicitaba el autobús no se mostraba correctamente.
+- Ahora en el trabajo de minería las rocas se lavan en "packs" de 2, pero se siguen fundiendo las rocas lavadas en "packs" de 10.
+- Reparado bug que hacía que el menú de admin provocara un error en la consola de servidor (no afectaba a jugadores).
+- Reparado bug que hacía que el trabajo de repartidor provocara un error en la consola de servidor (no afectaba a jugadores).
+- Añadido el sistema de combustible a los trabajos de repartidor, basureros y mineros.
+- Implementado nuevo trabajo de basureros con el sistema de interacción de los otros trabajos.
+- Reparado bug que hacía que en el trabajo del Burgershot los jefes no pudieran acceder a las cuentas de la empresa.
+- Retiradas las imágenes del script de sistema de alquiler de vehículos para que los PCs menos potentes no se resientan tanto cuando cargan las imágenes.
+- Reparado bug que hacía que las tiendas de tatuajes no se mostraran correctamente.
