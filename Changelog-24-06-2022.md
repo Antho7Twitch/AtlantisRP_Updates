@@ -7,3 +7,9 @@
 - Reparado pequeño bug en la ropa de mujer del script de los tatuajes, ahora saldrá con un bikini para más comodidad.
 - Añadido al script de tatuajes la posibilidad de quitar temporalmente toda la ropa de nuestro personaje incluyendo máscaras, gafas, colgantes, etc. Al salir del menú nos devolverá la ropa a la normalidad.
 - Reparada la traducción del script de tatuajes que al terminar de pagar el servicio nos salía con el formato de colores antiguo.
+
+fixes 19:15h
+
+- Implementado Hangar de la LSPD para los agentes que tengan permisos para usar helicópteros.
+- Ahora al comprar los helicópteros los guardará en el hangar automáticamente.
+- Ahora se tendrán que guardar los helicópteros en el hangar al terminar de utilizarlos.
