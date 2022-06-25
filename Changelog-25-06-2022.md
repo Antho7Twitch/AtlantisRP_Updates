@@ -1,0 +1,4 @@
+- Reparado error que hacía que los mecheros no salieran a la venta en los badulaques.
+- Añadido el log de fichaje del Bennys. 
+- Añadidas 11 viviendas a la zona de Forum Drive.
+- Añadido banner al servidor para que quede más bonico.
