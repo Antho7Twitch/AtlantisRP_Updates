@@ -1,0 +1,6 @@
+- Reducido ligeramente lo que bajan la comida y la bebida en los personajes.
+- Reparado error de spawn de los vehículos del bennys.
+- Reparado error de spawn de vehículos de una facción oculta.
+- Reparado bug que hacía que el garaje cercano al Benny's no apareciera correctamente en el mapa.
+- Implementado mapeado de una facción oculta.
+- Traducido el menú de diálogo.
