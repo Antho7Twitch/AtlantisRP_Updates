@@ -15,3 +15,6 @@ fixes 18:10
 - Reducidos ligeramente los precios del pan, bocadillos, sándwiches, donuts y doritos en los 24/7.
 - Actualizado el bot de Discord para que muestre correctamente el nombre AtlantisRP en el Rich Presence de Discord.
 - Reparado pequeño error en el sistema de notificaciones que hacía que salieran con caracteres raros a veces, debería estar resuelto en todos los scripts.
+
+fixes 22:15
+- Reparado error que hacía que en el punto de cirugía no salieran algunos parámetros de edición.
