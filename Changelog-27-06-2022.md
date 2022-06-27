@@ -1,0 +1,7 @@
+- Varios cambios en el script del Burgershot.
+- Adición de nueva empresa al servidor. Salieris Bar, que se inaugurará próximamente (Atentos al canal de Anuncios)
+- Adición de varios consumibles de los nuevos negocios al inventario.
+- Reparado bug que hacía que el chat de staff no funcionara correctamente.
+- Actualizado un script de administración.
+- Añadidos garajes personales a varias viviendas.
+- Reparado bug que hacía que no se pudiera limpiar el chat con el comando /clear
