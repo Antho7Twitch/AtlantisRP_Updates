@@ -5,3 +5,6 @@
 - Añadido punto de ropa en el SB.
 - Reparado error con los garajes de LSPD y EMS.
 - Añadido el comando /verid (por defecto en el + del teclado normal) para poder ver la ID encima de la cabecita de los demás (para poder hacer rol normal y para pillar info para reportes en caso de ser necesario).
+
+update 16:40
+- Actualizado bobipl 0651e48.
