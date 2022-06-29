@@ -1,0 +1,7 @@
+- Reparado bug que hacía que el punto de NPC del Hospital no reviviera al curarnos.
+- Retirados los blips del mapa de las casas adquiridas o alquiladas por otra persona.
+- Reparados varios bugs en el trabajo de Salieris Bar.
+- Añadido punto de fichaje en el Salieris Bar.
+- Añadido punto de ropa en el SB.
+- Reparado error con los garajes de LSPD y EMS.
+- Añadido el comando /verid (por defecto en el + del teclado normal) para poder ver la ID encima de la cabecita de los demás (para poder hacer rol normal y para pillar info para reportes en caso de ser necesario).
