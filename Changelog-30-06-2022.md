@@ -1,0 +1,1 @@
+- Fixeado el problema de los tatuajes, que no cargaban a los jugadores al conectarse.
