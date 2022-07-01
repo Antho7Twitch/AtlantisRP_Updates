@@ -4,3 +4,7 @@
 - Reparado error que hacía que no se pudiera acceder al inventario (maletero) de los vehículos acuáticos.
 - Reparado error que hacía que no cargaran a veces los tatuajes al conectarse.
 - Añadidos los tatuajes del DLC de GTA V Online The Contract.
+
+Cambios 15:10h
+- Añadido nuevo mapeado del Benny's Motorworks
+- Añadido ascensor en el Benny's
