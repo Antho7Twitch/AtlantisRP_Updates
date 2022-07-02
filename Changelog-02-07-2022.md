@@ -1,0 +1,3 @@
+- Añadido al contador de trabajos el trabajo del Salieris Bar, aparecerá en el contador de los bares de copas.
+- Aumentado ligeramente el tamaño de los números del contador de trabajos.
+- Añadidas las imágenes que faltaban de los productos del Salieris Bar en el inventario. (Paninis y Pizza)
