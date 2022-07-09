@@ -1,0 +1,7 @@
+- Con el fin de optimizar los registros en la base de datos (que ya tardaban bastante en registrarse) se ha retirado el historial de ingresos de las nóminas en el banco, es decir que ya no saldrán en los cajeros los ingresos realizados por las empresas o por el IMV (Ingreso mínimo vital). Solamente se verá afectado este tipo de ingresos, nos seguirán apareciendo igualmente las transacciones de depósito, traspaso y facturación como siempre.
+- Esta semana se realizaron varios cambios menores en la empresa de Benny's Motorworks (con la adición del nuevo mapeado)
+- Esta semana se implementó el sistema de facturación a la empresa Salieris Bar y se realizaron varios arreglos menores en el script de la misma.
+- Se ha retirado la caducidad de la comida y la bebida para que no se sufra tanto que no estén abiertas las empresas que venden alimentación.
+- Se ha retirado la durabilidad del Avisador de radar y de varios objetos más de uso cotidiano.
+- Se ha retirado del concesionario VIP 1 la moto Gargoyle que estaba allí por error.
+- Reparado el bug reportado por algunos usuarios al principio con respecto a los tattoos, ya funcionan perfectamente.
